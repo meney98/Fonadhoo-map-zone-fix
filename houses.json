@@ -6361,8 +6361,8 @@
   },
   "Waste Management Center": {
     "houseNumber": "",
-    "area": "",
-    "feederNumber": "",
+    "area": "SS02",
+    "feederNumber": "B",
     "distributionBox": "",
     "breakerNumber": "",
     "meterNumber": ""
