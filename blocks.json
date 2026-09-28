@@ -18027,10 +18027,10 @@
     "meterNumber": ""
   },
   "BLOCK-2004": {
-    "houseName": "",
+    "houseName": "Herosheema",
     "houseNumber": "",
-    "area": "",
-    "feederNumber": "",
+    "area": "SS02",
+    "feederNumber": "A",
     "distributionBox": "",
     "breakerNumber": "",
     "meterNumber": ""
@@ -18081,10 +18081,10 @@
     "meterNumber": ""
   },
   "BLOCK-2010": {
-    "houseName": "",
+    "houseName": "Nagazaki",
     "houseNumber": "",
-    "area": "",
-    "feederNumber": "",
+    "area": "SS02",
+    "feederNumber": "A",
     "distributionBox": "",
     "breakerNumber": "",
     "meterNumber": ""
@@ -19422,13 +19422,13 @@
     "meterNumber": ""
   },
   "BLOCK-2159": {
-    "houseName": "",
+    "houseName": "HERCS",
     "houseNumber": "",
-    "area": "",
-    "feederNumber": "",
+    "area": "SS02",
+    "feederNumber": "A",
     "distributionBox": "",
     "breakerNumber": "",
-    "meterNumber": ""
+    "meterNumber": "1009"
   },
   "BLOCK-2160": {
     "houseName": "",
