@@ -131,6 +131,9 @@
   "SS02": {
     "label": "Zone 3 (SS02)",
     "houses": [    
+    "BLOCK-2004",
+    "BLOCK-2010",
+    "BLOCK-2159",
     "Tharividhaage",
     "Meylaa",
     "Sunset",
@@ -256,10 +259,7 @@
     "Gulshankinaaraa",
     "Beauty Villa",
     "Paradise",
-    "Sahara",
-    "BLOCK-2004",
-    "BLOCK-2010",
-    "BLOCK-2159",
+    "Sahara"
     ]
   },
   "SS03": {
