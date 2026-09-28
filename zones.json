@@ -5,7 +5,17 @@
   },
   "SS01": {
     "label": "Zone 2 (SS01)",
-    "houses": []
+    "houses": ["PH": {
+  "label": "Zone 1 (PH)",
+  "houses": [
+    "BLOCK-1630",
+    "Aavehi",
+    "Zindhagee",
+    "Thuthiyaage",
+    "Irudheymaage",
+    "Isthafaage",
+  ]
+}]
   },
   "SS02": {
     "label": "Zone 3 (SS02)",
