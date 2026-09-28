@@ -1,0 +1,34 @@
+{
+  "PH": {
+    "label": "Zone 1 (PH)",
+    "houses": []
+  },
+  "SS01": {
+    "label": "Zone 2 (SS01)",
+    "houses": []
+  },
+  "SS02": {
+    "label": "Zone 3 (SS02)",
+    "houses": []
+  },
+  "SS03": {
+    "label": "Zone 4 (SS03)",
+    "houses": []
+  },
+  "SS04": {
+    "label": "Zone 5 (SS04)",
+    "houses": []
+  },
+  "SS05": {
+    "label": "Zone 6 (SS05)",
+    "houses": []
+  },
+  "SS06": {
+    "label": "Zone 7 (SS06)",
+    "houses": []
+  },
+  "SS07": {
+    "label": "Zone 8 (SS07)",
+    "houses": []
+  }
+}
