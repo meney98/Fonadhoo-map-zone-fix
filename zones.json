@@ -3,8 +3,6 @@
     "label": "Zone 1 (PH)",
     "houses": [
       "BLOCK-1630",
-      "BLOCK-1520",
-      "BLOCK-2289",
       "Aavehi",
       "Zindhagee",
       "Thuthiyaage",
@@ -123,7 +121,9 @@
       "Sky Blue",
       "Health Centre",
       "Siraajuhdheen Preschool",
-      "Medhuvashu Kulheybin"
+      "Medhuvashu Kulheybin",
+     "BLOCK-1520",
+      "BLOCK-2289" 
     ]
   },
   "SS01": {
