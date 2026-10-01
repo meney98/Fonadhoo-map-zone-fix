@@ -79,5 +79,68 @@
     "distributionBox": "",
     "breakerNumber": "",
     "meterNumber": ""
+  },
+  "Dhilsaadhuge": {
+    "blockId": "BLOCK-1520",
+    "houseNumber": "",
+    "area": "PH",
+    "feederNumber": "F",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Kings land": {
+    "blockId": "BLOCK-1598",
+    "houseNumber": "",
+    "area": "SS04",
+    "feederNumber": "",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Falak": {
+    "blockId": "BLOCK-1617",
+    "houseNumber": "",
+    "area": "SS04",
+    "feederNumber": "",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Onest": {
+    "blockId": "BLOCK-1857",
+    "houseNumber": "",
+    "area": "SS02",
+    "feederNumber": "",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Aaliya": {
+    "blockId": "BLOCK-2059",
+    "houseNumber": "",
+    "area": "SS02",
+    "feederNumber": "",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Dhondheeni": {
+    "blockId": "BLOCK-2066",
+    "houseNumber": "",
+    "area": "SS02",
+    "feederNumber": "",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
+  },
+  "Kurigam Ijuthimaaee Marukazu": {
+    "blockId": "BLOCK-2289",
+    "houseNumber": "",
+    "area": "PH",
+    "feederNumber": "F",
+    "distributionBox": "",
+    "breakerNumber": "",
+    "meterNumber": ""
   }
 }
