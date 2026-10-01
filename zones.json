@@ -3,6 +3,8 @@
     "label": "Zone 1 (PH)",
     "houses": [
       "BLOCK-1630",
+      "BLOCK-1520",
+      "BLOCK-2289",
       "Aavehi",
       "Zindhagee",
       "Thuthiyaage",
@@ -134,6 +136,9 @@
       "BLOCK-2004",
       "BLOCK-2010",
       "BLOCK-2159",
+      "BLOCK-1857",
+      "BLOCK-2059",
+      "BLOCK-2066",
       "Tharividhaage",
       "Meylaa",
       "Sunset",
@@ -268,7 +273,10 @@
   },
   "SS04": {
     "label": "Zone 5 (SS04)",
-    "houses": []
+    "houses": [
+      "BLOCK-1598",
+      "BLOCK-1617",
+    ]
   },
   "SS05": {
     "label": "Zone 6 (SS05)",
