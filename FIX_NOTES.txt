@@ -1,0 +1,1 @@
+FIXED: All named house hit areas are clickable. Selecting a named house now highlights the real SVG lot/block in blue when a matching lot is available. Existing editable empty blocks remain clickable/selectable.
